@@ -2,3 +2,5 @@
 this is the first line.
 #DEF
 here you can define anything. 
+#del
+Delete all

@@ -2,3 +2,5 @@
 Yes! This is my  first php program.
 #xampp
 Here you can run php file by starting server.
+#phpmyadmin
+Now you can use phpmyadmin.
